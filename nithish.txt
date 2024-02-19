@@ -1,0 +1,17 @@
+So far I have completed studying about 
+1.Basics of linux
+2.Basics of git and github
+And Today I have learned
+Basics of networking. THe topics I have covered 
+1. OSI model
+2.How internet works
+3.What is packets
+4.WHat is IP addressed 
+5. What is protocols
+6.How countries are connected over network
+
+And I have covered the basics of PYTHON programming 
+Topics 
+1.Python is high-level language 
+2.Python is dynamically typed and garbage collective
+3.python is general purpose language
